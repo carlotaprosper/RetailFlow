@@ -2,22 +2,22 @@
 > **Precision Customer Analytics through Computer Vision**
 
 
-Retail Flow is an intelligent computer vision system designed to transform physical movement into actionable retail intelligence. By utilizing **YOLO (You Only Look Once)** machine learning models, the system tracks customer behavior, measures zone density, and correlates foot traffic with sales performance.
+Retail Flow is an intelligent computer vision system designed to transform physical movement into actionable retail intelligence. By utilizing **YOLO** machine learning models, the system tracks customer behavior, measures zone density, and correlates foot traffic with sales performance.
 
 ---
 
 ## 👥 The Team
 **University:** Universidad Europea  
 **Professor:** Alejandro Perdiguero  
-**Date:** February 19, 2026  
 
 | Name | Role |
 | :--- | :--- |
-| **Santiago Campos Snels** | Project Lead / Development |
-| **Javier Hernández Pérez** | Systems Architecture |
-| **María Parra Ramos** | Data Strategy |
-| **Ashley Harris Velasquez** | ML Engineering |
-| **Carlota Prósper Hernández** | Business Integration |
+| **María Parra Ramos** | Software Engineer |
+| **Santiago Campos Snels** | Data Engineer|
+| **Javier Hernández Pérez** | Data Scientist |
+| **Ashley Harris Velasquez** | Data Analyst |
+| **Carlota Prósper Hernández** | Data Engineer |
+| **Vicente Vazquez** | Data Engineer |
 
 ---
 
